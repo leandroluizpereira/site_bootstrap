@@ -11,3 +11,20 @@ button{
     
 
 }
+.navbar{
+    background-color: #a52a90; 
+    color: white; 
+}
+.nav-link{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+
+.nav-link:hover{
+    color: white;
+}
+.navbar-brand:hover{
+    color: white;
+}
